@@ -1,0 +1,1 @@
+problem w/ reduce factorials, work's all the way up until we hit the largest num size

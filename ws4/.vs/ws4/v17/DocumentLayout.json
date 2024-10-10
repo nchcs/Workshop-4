@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicholas\\Documents\\School\\Fall 2024\\SFT221\\Workshop 4\\ws4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80CEDE04-F934-4E07-9D32-18412A54BDE9}|ws4.vcxproj|C:\\Users\\Nicholas\\Documents\\School\\Fall 2024\\SFT221\\Workshop 4\\ws4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80CEDE04-F934-4E07-9D32-18412A54BDE9}|ws4.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Documents\\School\\Fall 2024\\SFT221\\Workshop 4\\ws4\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Nicholas\\Documents\\School\\Fall 2024\\SFT221\\Workshop 4\\ws4\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-09T19:27:09.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
