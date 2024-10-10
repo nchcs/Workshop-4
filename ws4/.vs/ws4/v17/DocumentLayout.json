@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nicholas\\Documents\\School\\Fall 2024\\SFT221\\Workshop 4\\ws4\\",
+  "WorkspaceRootPath": "C:\\Users\\nicho\\School\\Fall 2024\\SFT221\\ws4\\Workshop-4\\ws4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80CEDE04-F934-4E07-9D32-18412A54BDE9}|ws4.vcxproj|C:\\Users\\Nicholas\\Documents\\School\\Fall 2024\\SFT221\\Workshop 4\\ws4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{80CEDE04-F934-4E07-9D32-18412A54BDE9}|ws4.vcxproj|C:\\Users\\nicho\\School\\Fall 2024\\SFT221\\ws4\\Workshop-4\\ws4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{80CEDE04-F934-4E07-9D32-18412A54BDE9}|ws4.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Nicholas\\Documents\\School\\Fall 2024\\SFT221\\Workshop 4\\ws4\\main.c",
+              "DocumentMoniker": "C:\\Users\\nicho\\School\\Fall 2024\\SFT221\\ws4\\Workshop-4\\ws4\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\Nicholas\\Documents\\School\\Fall 2024\\SFT221\\Workshop 4\\ws4\\main.c",
+              "ToolTip": "C:\\Users\\nicho\\School\\Fall 2024\\SFT221\\ws4\\Workshop-4\\ws4\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAA9AAAAAAAAAA==",
+              "ViewState": "AQIAACQAAABAyczMzMwnwEAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-09T19:27:09.778Z",
+              "WhenOpened": "2024-10-10T16:38:29.763Z",
               "EditorCaption": ""
             }
           ]
